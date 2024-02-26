@@ -42,6 +42,8 @@ No geral, o projeto "The-shirts" visa proporcionar aos usuários uma experiênci
 
 - **Mongoose:** Biblioteca do Node.js que facilita a interação com o MongoDB, fornecendo uma camada de modelagem de dados mais simples e intuitiva. Utilizado para definir os modelos de dados, criar esquemas e realizar operações de CRUD no banco de dados MongoDB.
 
+- **@studio-freight/Lenis": ^1.0.35:** Biblioteca responsável por uma variedade de funcionalidades relacionadas à logística e frete, como cálculo de frete, rastreamento de pedidos, integração com transportadoras, entre outras possibilidades.
+
 
 ### Licença
 MIT
