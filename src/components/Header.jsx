@@ -1,12 +1,12 @@
 import React from 'react';
 import styles from './Header.module.css';
 import { Link, useLocation } from 'react-router-dom';
-import Logo from '../Assets/Logo.svg?react';
-import Cart from '../Assets/cart.svg?react';
-import Pessoa from '../Assets/pessoa-login.svg?react';
-import New from '../Assets/icon-new.svg?react';
-import Masculina from '../Assets/icon-camisa-masculina.svg?react';
-import Feminina from '../Assets/icon-camisa-feminina.svg?react';
+import Logo from '../assets/Logo.svg?react';
+import Cart from '../assets/cart.svg?react';
+import Pessoa from '../assets/pessoa-login.svg?react';
+import New from '../assets/icon-new.svg?react';
+import Masculina from '../assets/icon-camisa-masculina.svg?react';
+import Feminina from '../assets/icon-camisa-feminina.svg?react';
 import { UserContext } from '../UserContext';
 import { CartContext } from '../CartContext';
 
