@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Footer.module.css';
-import LogoWhite from '../Assets/LogoWhite.svg?react';
+import LogoWhite from '../assets/logoWhite.svg?react';
 import Instagram from '../assets/instagram.png?react';
 import Facebook from '../assets/facebook.png?react';
 import Pinterest from '../assets/pinterest.png?react';
