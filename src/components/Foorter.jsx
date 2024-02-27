@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Footer.module.css';
-import LogoWhite from '../assets/logoWhite.svg?react';
+// import LogoWhite from '../assets/LogoWhite.svg?react';
 import Instagram from '../assets/instagram.png?react';
 import Facebook from '../assets/facebook.png?react';
 import Pinterest from '../assets/pinterest.png?react';
@@ -11,7 +11,8 @@ const Foorter = () => {
       <div className="container">
         <div className={styles.footerContent}>
           <div className={styles.col1}>
-            <LogoWhite />
+            {/* <LogoWhite /> */}
+            <p>THE-SHIRTS</p>
             <p>Buscando sempre o melhor produto para você.</p>
             <div className={styles.social}>
               <img src={Pinterest} alt="Pinterest" />
