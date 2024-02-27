@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:5000/api';
+export const API_URL = 'https://shop-api-bcjx.onrender.com/';
 
 export function TOKEN_POST(body) {
   return {
